@@ -7,5 +7,4 @@ Un de nos conseiller vous contactera soit à l’adresse " . $_POST['user_mail']
 <i>" . $_POST['user_message'] . "<i>
 <br>
 </div><br>";
-var_dump($_POST);
 ?>
